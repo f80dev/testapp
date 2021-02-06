@@ -1,0 +1,19 @@
+[package]
+name = "testapp"
+version = "0.1.0"
+authors = ["f80dev <rv@f80.fr>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[dependencies.elrond-wasm-debug]
+version = "0.11.0"
+
+[dependencies.elrond-wasm]
+version = "0.11.0"
+
+
+
